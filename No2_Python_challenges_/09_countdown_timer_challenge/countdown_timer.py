@@ -12,6 +12,7 @@ while num > 0:  # Loop as long as `num` is greater than 0
     print(num)  # Display the current countdown number
     num -= 1  # Decrease `num` by 1 to count down
 
+
     user = input("Enter stop to cancel or press Enter:")  # Prompt the user for input
     if user == "stop":  # If the user enters "stop"
         print("Countdown stopped!")  # Acknowledge the stop
