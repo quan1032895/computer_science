@@ -7,8 +7,7 @@
 # Updated:     26-Mar-2025
 #-----------------------------------------------------------------------------
 # Create the to-do list
-todo_list = ['write email', 'finish homework', 'call mom', 'clean room']nigge
-# Remove 'call mom' from the list
+todo_list = ['write email', 'finish homework', 'call mom', 'clean room']
 todo_list.remove('call mom')
 print(todo_list)
 # Remove 'clean room' from the list
