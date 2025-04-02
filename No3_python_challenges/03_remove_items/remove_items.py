@@ -13,3 +13,4 @@ print(todo_list)
 # Remove 'clean room' from the list
 todo_list.remove('clean room')
 print(todo_list)
+
