@@ -13,4 +13,4 @@ print("adding tomatoes and cheese to the list")  # Inform about the addition
 list.append('tomatoes')  # Add 'tomatoes' to the list
 list.append('cheese')  # Add 'cheese' to the list
 print("this is your list now")  # Print a message about the updated list
-print(list)  # Print the updated listI HATE NIG
+print(list)  # Print the updated list
