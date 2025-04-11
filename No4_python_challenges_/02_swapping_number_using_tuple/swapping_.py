@@ -24,4 +24,4 @@ print(list1[1], list1[0])  # Corrected from 'list' to 'list1'
 
 
 
-
+0
